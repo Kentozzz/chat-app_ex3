@@ -9,4 +9,3 @@ class Message < ApplicationRecord
     self.image.attached?
   end
 end
-# 変更1
